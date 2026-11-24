@@ -1,0 +1,9 @@
+Mari, Matemaatika, 5
+Jüri, Matemaatika, 3
+Kati, Matemaatika, 4
+Mari, Eesti keel, 4
+Jüri, Eesti keel, 4
+Kati, Eesti keel, 5
+Mari, Ajalugu, 5
+Jüri, Ajalugu, 2
+Kati, Ajalugu, 3
